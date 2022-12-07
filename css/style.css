@@ -1,0 +1,51 @@
+body {
+    background-color: thistle;
+}
+
+#page {
+    background-color: snow;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+.image {
+    height: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.description {
+    height: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+p {
+    font-family: 'Mali', cursive;
+    font-size: large;
+}
+
+h1 {
+    font-family: 'Mali', cursive;
+}
+
+h3 {
+    font-family: 'Mali', cursive;
+}
